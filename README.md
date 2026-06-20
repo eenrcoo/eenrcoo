@@ -1,4 +1,6 @@
-## Hi there 👋
+## こんにちは。
+
+えりくと申します。初心者ですので、助言やご指摘をいただけますと幸いです。よろしくお願いいたします。
 
 <!--
 **eenrcoo/eenrcoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
